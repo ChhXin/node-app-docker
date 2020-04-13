@@ -1,0 +1,25 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "化风 <79379732@qq.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChhXin/node-app-docker.git"
+  },
+  "keywords": [
+    "docker"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChhXin/node-app-docker/issues"
+  },
+  "homepage": "https://github.com/ChhXin/node-app-docker#readme"
+}
